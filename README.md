@@ -22,15 +22,6 @@ I love building modern web applications and learning new technologies.
 
 ---
 
-## 💻 Tech Stack
-
-- Angular
-- TypeScript
-- HTML
-- CSS
-- Python
-- Git
-- GitHub
 
 
 
