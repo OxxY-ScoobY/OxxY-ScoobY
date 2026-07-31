@@ -52,10 +52,10 @@ Passionate about building modern web applications, solving real-world problems, 
 
 ---
 
-## 🔥 GitHub Streak
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OxxY-ScoobY&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=OxxY-ScoobY&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
