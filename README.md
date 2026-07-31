@@ -32,15 +32,7 @@ I love building modern web applications and learning new technologies.
 - Git
 - GitHub
 
-## 📊 GitHub Stats
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=OxxY-ScoobY&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OxxY-ScoobY&layout=compact&theme=tokyonight"/>
-
-</p>
 
 ## 💻 Tech Stack
 
