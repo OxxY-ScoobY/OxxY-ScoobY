@@ -111,21 +111,7 @@ Passion:
 🚀 Building Production Ready Applications
 
 ---
-<!--==============================-->
-<!--      GITHUB ANALYTICS        -->
-<!--==============================-->
 
-<h1 align="center">📊 GitHub Analytics</h1>
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=OxxY-ScoobY&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OxxY-ScoobY&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
 
 <!--==============================-->
 <!--      STREAK STATS            -->
@@ -155,19 +141,7 @@ Passion:
 
 ---
 
-<!--==============================-->
-<!--        TROPHIES              -->
-<!--==============================-->
 
-<h1 align="center">🏆 GitHub Trophies</h1>
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=OxxY-ScoobY&theme=tokyonight&row=2&column=4&margin-w=15&margin-h=15&no-frame=true"/>
-
-</p>
-
----
 
 <!--==============================-->
 <!--      CONTRIBUTION BADGES     -->
