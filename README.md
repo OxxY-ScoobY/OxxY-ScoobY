@@ -1,8 +1,7 @@
+<h1 align="center">Hi 👋, I'm Athil Hisham</h1>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Developer;Angular+Developer;Python+Developer;Always+Learning+New+Things" />
 </p>
-<h1 align="center">Hi 👋, I'm Athil Hisham</h1>
-
 <h3 align="center">
 Software Developer | Angular Developer | Python Enthusiast
 </h3>
