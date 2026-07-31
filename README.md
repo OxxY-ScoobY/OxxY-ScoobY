@@ -43,19 +43,18 @@ Passionate about building modern web applications, solving real-world problems, 
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OxxY-ScoobY&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OxxY-ScoobY&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</p>
-
----
 
 ## 📈 Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=OxxY-ScoobY&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OxxY-ScoobY&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
