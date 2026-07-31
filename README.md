@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Athil Hisham</h1>
 
-<!--
-**OxxY-ScoobY/OxxY-ScoobY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Software Developer | Angular Developer | Python Enthusiast
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+I love building modern web applications and learning new technologies.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🎓 Computer Science Engineering Graduate
+- 💻 Software Developer
+- 🌱 Learning Angular, Node.js & System Design
+- 🔭 Currently working on ERP Projects
+- ⚡ Fun Fact: I enjoy solving coding problems.
+
+---
+
+## 💻 Tech Stack
+
+- Angular
+- TypeScript
+- HTML
+- CSS
+- Python
+- Git
+- GitHub
