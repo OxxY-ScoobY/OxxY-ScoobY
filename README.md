@@ -334,25 +334,6 @@ Enterprise Resource Planning Modules
 
 ---
 
-# 🌍 Let's Connect
-
-<p align="center">
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:athilhishamcym@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="athil-hisham.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel"/>
-</a>
-
-</p>
-
----
 
 
 <h2 align="center">
