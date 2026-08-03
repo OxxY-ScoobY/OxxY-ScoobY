@@ -167,35 +167,6 @@ Passion:
 
 ---
 
-<!--==============================-->
-<!--       GITHUB SUMMARY         -->
-<!--==============================-->
-
-<h1 align="center">⚡ GitHub Summary</h1>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OxxY-ScoobY&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OxxY-ScoobY&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OxxY-ScoobY&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OxxY-ScoobY&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OxxY-ScoobY&theme=tokyonight&utcOffset=5.5"/>
-
-</p>
-
----
 
 <!--==============================-->
 <!--        RANDOM QUOTE          -->
@@ -314,15 +285,6 @@ Enterprise Resource Planning Modules
 
 ---
 
-# 📈 Coding Activity
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OxxY-ScoobY&theme=tokyonight"/>
-
-</p>
-
----
 
 # 🐍 Contribution Snake
 
