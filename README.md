@@ -125,22 +125,9 @@ Passion:
 
 </p>
 
----
 
-<!--==============================-->
-<!--      ACTIVITY GRAPH          -->
-<!--==============================-->
-
-<h1 align="center">📈 Contribution Graph</h1>
-
-<p align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=OxxY-ScoobY&theme=tokyo-night&hide_border=true"/>
-
-</p>
 
 ---
-
 
 
 <!--==============================-->
